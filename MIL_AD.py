@@ -261,7 +261,7 @@ def compute_scaler(features_dir, output_csv):
 # ---------------------------
 def main():
     # Adjust these paths as needed
-    data_dir = Path("C:/Users/ulyss/modele_ML/ENS_Challenge")
+    data_dir = Path("C:/Users/user/modele_ML/ENS_Challenge")
     train_features_dir = data_dir / "train_input" / "moco_features"
     test_features_dir  = data_dir / "test_input" / "moco_features"
     train_metadata_csv = data_dir / "supplementary_data" / "train_metadata.csv"
