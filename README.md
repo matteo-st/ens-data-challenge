@@ -1,4 +1,4 @@
-# Cancer Type Detection on Hispathological Data using Multi-Instance Learning
+# Cancer Type Detection on Hispathological Data using Multi-Instance Learning and Adaptative Domain
 This repo contains a response to the Owkin proposal for 2023 ENS Data Challenges : **Detecting PIK3CA mutation in breast cancer**.
 
 **PIK3CA mutation in breast cancer**  
